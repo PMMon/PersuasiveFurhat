@@ -74,6 +74,7 @@ The competent behavior is designed to gain trust by displaying its knowledge and
 image in the middle depicts the scenario in which the participant can choose between earning 10 points or stealing 10 points from the other
 team member. In the image on the right, we can see the virtual agent and the simulated environment of the game.*
 
+## References 
 [1] G. Briggs, M. Scheutz (2014). How robots can affect human be-
 havior: Investigating the effects of robotic displays of protest and
 distress. International Journal of Social Robotics, 6(3), 343–355.
