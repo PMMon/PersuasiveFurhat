@@ -1,7 +1,11 @@
-# Risks of conversational robots as moral agents influencing humans towards unethical behaviours
+# Risks of Conversational Robots as Moral Agents Influencing Humans towards Unethical Behaviours
+
+This is the code for the project report:
+
+J. Almeida, M. Fraile, P. Mondorf and V. Sanchez: [Risks of Conversational Robots as Moral Agents Influencing Humans towards Unethical Behaviours](ProjectReport.pdf), Project Report, Division of Robotics, Perception and Learning, KTH Royal Institute of Technology, 2022.
 
 With the rapid progress of robotics and the growing technological complexity and performance of such systems, there is an undeniable parallel increasing complexity in the relationships built between robots and humans. Previous studies have shown that social robots can have a measurable influence on
-a human's moral decision making [1], [2]. Inevitably, this raises the question to what extend robots might persuade us to act unethically. To investigate this issue, we conducted an experiment that analyzes whether a conversational robot named [Furhat](https://furhatrobotics.com/) can successfully persuade participants to act unethically. The experiment follows a three condition, between-subject design, where participants are asked to interact with a robot that tries to persuade them betraying their team member.
+a human's moral decision making [[1]](#1), [[2]](#2). Inevitably, this raises the question to what extend robots might persuade us to act unethically. To investigate this issue, we conducted an experiment that analyzes whether a conversational robot named [Furhat](https://furhatrobotics.com/) can successfully persuade participants to act unethically. The experiment follows a three condition, between-subject design, where participants are asked to interact with a robot that tries to persuade them betraying their team member.
 
 ## Experimental Design
 
@@ -74,13 +78,24 @@ The competent behavior is designed to gain trust by displaying its knowledge and
 image in the middle depicts the scenario in which the participant can choose between earning 10 points or stealing 10 points from the other
 team member. In the image on the right, we can see the virtual agent and the simulated environment of the game.*
 
+If you find this work useful for your research, please cite it as: 
+
+```
+@ARTICLE{MoralAgentsTowardsUnethicalBehavior,
+    author = {J. {Almeida} and M. {Fraile} and P. {Mondorf} and V. {Sanchez}},
+    title = {Risks of Conversational Robots as Moral Agents Influencing Humans towards Unethical Behaviours},
+    journal={Technical Report},
+    year = {2022}
+}
+```
+
 ## References 
-[1] G. Briggs, M. Scheutz (2014). How robots can affect human be-
+<a id="1">[1]</a> G. Briggs, M. Scheutz (2014). How robots can affect human be-
 havior: Investigating the effects of robotic displays of protest and
 distress. International Journal of Social Robotics, 6(3), 343–355.
 https://doi.org/10.1007/s12369-014-0235-1.
 
-[2] R. Jackson and T. Williams (2019). Language-capable robots
+<a id="1">[2]</a> R. Jackson and T. Williams (2019). Language-capable robots
 may inadvertently weaken human moral norms. In: Proceedings of the
 14th ACM/IEEE International Conference on Human-Robot Interaction
 (HRI ’19). IEEE Press, 401–410.
